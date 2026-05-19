@@ -1,4 +1,4 @@
-LAB 10 : Guide d'installation de Frida
+                                     LAB 10 : Guide d'installation de Frida
 1.1. Préparer Python et pip
 
 <img width="943" height="98" alt="image" src="https://github.com/user-attachments/assets/ab4cf4be-a76c-44ad-91c5-4f4276aee333" />
